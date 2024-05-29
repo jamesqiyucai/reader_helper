@@ -1,5 +1,5 @@
 export const dynamic = 'force-dynamic'; // static by default, unless reading the request
-export const maxDuration = 120;
+export const maxDuration = 60;
 
 import OpenAI from "openai";
 
