@@ -1,0 +1,26 @@
+[
+    {
+        "word": "Bonjour",
+        "explanation": "This is a standard greeting in French, equivalent to 'Hello' or 'Good morning/day.' In this sentence, it serves as a greeting to a group of people. It's a noun and serves as the main component of the greeting, initiating the communication."
+    },
+    {
+        "word": "à",
+        "explanation": "In this sentence, 'à' is used to mean 'to,' indicating the direction of the greeting. It is a preposition linking the greeting 'Bonjour' to the recipients 'toutes' and 'tous.'"
+    },
+    {
+        "word": "toutes",
+        "explanation": "'All' or 'everyone,' specifically referring to all females in the group. It emphasizes inclusivity. It is a pronoun, serving as the object of the preposition 'à,' indicating who is being greeted."
+    },
+    {
+        "word": "et",
+        "explanation": "It means 'and', a conjunction that is used to ensure no part of the audience is excluded. It links the greeting to both female and male groups, stressing inclusivity."
+    },
+    {
+        "word": "à",
+        "explanation": "This second 'à' also means 'to', continuing its role as a preposition to extend the greeting. It underscores that the speaker is addressing another segment of the audience, maintaining the structure and balance of the greeting."
+    },
+    {
+        "word": "tous",
+        "explanation": "'Tous' here means 'all' or 'everyone' (masculine plural). This pronoun completes the inclusivity of the greeting by ensuring that all males in the group are also acknowledged, mirroring the structure used with the female group."
+    }
+]
